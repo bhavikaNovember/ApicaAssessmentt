@@ -1,8 +1,15 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+ 1. Since I have worked mostly on the frontend part in my company where I have used Javascript and React, I'm not aware of the first question but I'm willing to expand my skillset.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. I have created a React application using Vite, which includes an api folder providing cacheServices and a components folder containing a CacheManager component that consumes these cache services. I have followed best practices throughout the development process.
+
+- I have used Funtional components,
+- React hooks for State Management,
+- useEffect for API calls
+- async await for Web API requests
+- try and catch for Error handling
+- Axios for get and post requests
+
+   
