@@ -5,7 +5,7 @@
 
 2. I have created a React application using Vite, which includes an api folder providing cacheServices and a components folder containing a CacheManager component that consumes these cache services. I have followed best practices throughout the development process.
 
-- I have used Funtional components,
+- I have used Functional components,
 - React hooks for State Management,
 - useEffect for API calls
 - async await for Web API requests
